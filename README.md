@@ -132,8 +132,8 @@ Parcial3/
 **Requisitos:** .NET SDK 10 y MySQL Server 8.0.
 
 ```bash
-git clone https://github.com/jacu2006/LoginBCrypt.git
-cd LoginBCrypt
+git clone https://github.com/jacu2006/Parcial3.git
+cd Parcial3
 ```
 
 **Ejercicio 1**
